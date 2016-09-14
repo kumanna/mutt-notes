@@ -17,4 +17,14 @@
      - Uphill curve: takes time to learn
        - Configure once, use for years…
 
+** This talk
+   - Basic interface
+   - E-mail access (local vs. IMAP)
+   - Basic customization
+   - Tips and tricks
+   Versions: 1.5.21 - 1.6.2 (Don't use 1.4.x)
+
 * Basic interface
+#+CAPTION: Basic Mutt screenshot
+#+NAME:   fig:mutt1
+[[./mutt1.png]]
