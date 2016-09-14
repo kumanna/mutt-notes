@@ -1,0 +1,20 @@
+#+TITLE: An Introduction to Mutt
+
+* Introduction
+** E-mail
+   - History
+   - Addresses
+   - RFC 2822
+   - HTML
+** Why Mutt?
+   - "All mail clients suck. This one just sucks less." (Michael Elkins)
+   - Terminal based, keyboard oriented
+   - Small footprint, fast
+   - Highly customizable
+   - Limitations:
+     - Terminal → no graphics, fonts etc.
+       - Easy to interface external viewers
+     - Uphill curve: takes time to learn
+       - Configure once, use for years…
+
+* Basic interface
